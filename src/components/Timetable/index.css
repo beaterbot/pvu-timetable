@@ -1,0 +1,28 @@
+.time-table table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 4px;
+}
+
+.time-table table tr {
+  margin-bottom: 4px;
+}
+
+.time-table table th,
+.time-table table td {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 4px;
+  color: #fff;
+  font-weight: 400;
+}
+
+.time-table table th {
+  background: #238636;
+  font-weight: 700;
+}
+
+.highlight {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+}
